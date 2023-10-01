@@ -1,4 +1,4 @@
-//---------------------SOLUTION 1 (SORTING)--------------------
+//---------------------SOLUTION 1--------------------
 // TC : O(n)
 // SC : O(1)
 function hIndex(citations: number[]): number {
