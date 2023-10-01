@@ -38,6 +38,8 @@ function hIndex(citations: number[]): number {
   return h;
 }
 
+export default hIndex;
+
 /*
 EXPLANATION:
 
